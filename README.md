@@ -1,11 +1,13 @@
-### Hi there! Here is Nazar??
+### Hi there! Here is Nazar 👋
+
+On this page you will find examples of my private exercises to different technologies. 
 
 My main focus lies on the: 
 -	Python programming language 
 -	Data analysis with python
 -	Design and implementation of software solution with python
 
-On this page you will find examples of my private exercises to different technologies. 
+
 
 <img align="left" alt="nazarc's Github Stats Card" src="https://github-readme-stats.vercel.app/api?username=nazarc&show_icons=true&hide_border=true&count_private=true" />
 <br/>
