@@ -3,7 +3,7 @@
 My main focus lies on the: 
 -	Python programming language 
 -	Data analysis with python
--	Design and implementation of software solution (python)
+-	Design and implementation of software solution with python
 
 On this page you will find examples of my private exercises to different technologies. 
 
