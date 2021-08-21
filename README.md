@@ -11,7 +11,7 @@ My main focus lies on the:
 
 <img align="left" alt="nazarc's Github Stats Card" src="https://github-readme-stats.vercel.app/api?username=nazarc&show_icons=true&hide_border=true&count_private=true" />
 <br/>
-<img align="left" alt="nazarc's Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarc" />
+
 <!--
 **nazarc/nazarc** is a ? _special_ ? repository because its `README.md` (this file) appears on your GitHub profile.
 
